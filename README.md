@@ -1074,6 +1074,3 @@ Long-term (6+ months):
    - *Nature*, 529(7587), pp. 529-533
    - Deep Q-Networks (DQN)
 
-### Datasets & Benchmarks
-
-
